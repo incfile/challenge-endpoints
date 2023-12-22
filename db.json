@@ -3,51 +3,61 @@
         {
             "id": 1,
             "model": "button-down shirt",
+            "code": "BUDO",
             "size": "L"
         },
         {
             "id": 2,
             "model": "polo shirt",
+            "code": "POSH",
             "size": "S"
         },
         {
             "id": 3,
             "model": "polo shirt",
+            "code": "POSH",
             "size": "M"
         },
         {
             "id": 4,
             "model": "hoodie",
+            "code": "HOOD",
             "size": "S"
         },
         {
             "id": 5,
             "model": "hoodie",
+            "code": "HOOD",
             "size": "M"
         },
         {
             "id": 6,
             "model": "button-down shirt",
+            "code": "BUDO",
             "size": "S"
         },
         {
             "id": 7,
             "model": "t-shirt",
+            "code": "TSHI",
             "size": "M"
         },
         {
             "id": 8,
             "model": "t-shirt",
+            "code": "TSHI",
             "size": "L"
         },
         {
             "id": 9,
             "model": "polo shirt",
+            "code": "POSH",
             "size": "L"
         },
         {
             "id": 10,
             "model": "hoodie",
+            "code": "HOOD",
             "size": "L"
         }
     ],

@@ -1,10 +1,8 @@
 # challenge-endpoints
 
-## how to install
+## How to use
 
 `npm install`
-
-## how to use
 
 `node index.js`
 
